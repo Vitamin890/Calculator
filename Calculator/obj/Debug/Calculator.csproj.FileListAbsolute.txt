@@ -1,0 +1,12 @@
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/First_project/C# curse/lesson_5/Calculator/bin/Debug/Calculator.exe
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/First_project/C# curse/lesson_5/Calculator/bin/Debug/Calculator.pdb
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/First_project/C# curse/lesson_5/Calculator/obj/Debug/Calculator.csproj.AssemblyReference.cache
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/First_project/C# curse/lesson_5/Calculator/obj/Debug/Calculator.csproj.CoreCompileInputs.cache
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/First_project/C# curse/lesson_5/Calculator/obj/Debug/Calculator.exe
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/First_project/C# curse/lesson_5/Calculator/obj/Debug/Calculator.pdb
+/Users/future/Documents/C# projects/Calculator/Calculator/bin/Debug/Calculator.exe
+/Users/future/Documents/C# projects/Calculator/Calculator/bin/Debug/Calculator.pdb
+/Users/future/Documents/C# projects/Calculator/Calculator/obj/Debug/Calculator.csproj.AssemblyReference.cache
+/Users/future/Documents/C# projects/Calculator/Calculator/obj/Debug/Calculator.csproj.CoreCompileInputs.cache
+/Users/future/Documents/C# projects/Calculator/Calculator/obj/Debug/Calculator.exe
+/Users/future/Documents/C# projects/Calculator/Calculator/obj/Debug/Calculator.pdb
